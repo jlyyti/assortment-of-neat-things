@@ -1,2 +1,2 @@
-# assortment-of-neat-things
+# Work in progress
 A collection of docs and doc related things.
