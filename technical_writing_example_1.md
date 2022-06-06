@@ -5,7 +5,7 @@ The purpose of these instructions is to help you configure oXygen to enable loca
 `C:\Program Files\Oxygen XML Author\frameworks\dita\DITA-OTx.x\plugins`
 1. Open the XML file you want to preview in oXygen.
 1. Click **Configure transformation scenarios** -> **New** -> **DITA-OT transformation** -> **pdf**
-> **NOTE:** If **pdf** is not visible as a DITA-OT transformation, restart oXygen.
+    > **NOTE:** If **pdf** is not visible as a DITA-OT transformation, restart oXygen.
 1. Change the DITA Scenario name to something easily identifiable, for example, *pdf2*.
 1. Configure **Parameters**:
     - `dita.dir`: Change the location to your DITA-OT directory.
